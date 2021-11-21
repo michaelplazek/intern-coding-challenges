@@ -1,2 +1,2 @@
-# intern-coding-challenges
-JavaScript coding challenges for Pioneer Team interview process.
+# Intern Coding Challenges - HPE Pioneer Team
+Front-end coding challenges for Team Pioneer interns.
